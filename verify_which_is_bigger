@@ -1,0 +1,14 @@
+Início
+
+  Escrever("Insira dois números: ")
+  Ler(valor1)
+  Ler(valor2)
+  Se (valor 1 = valor 2) Então
+    Escrever("São iguais")
+  Senão
+    Se (valor1 > valor2) Então
+      Escrever(valor1, "é maior")
+    Senão
+      Escrever(valor2, "é maior")
+
+Fim
