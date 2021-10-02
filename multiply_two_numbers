@@ -1,0 +1,13 @@
+Início
+
+  Escrever("Insira dois números: ")
+  Ler(xf)
+  Ler(y)
+  xi <- xf
+  y <- y-1
+  Enquanto (y <> 0)
+    xf <- xf + xi
+    y <- y-1
+  Escrever("O resultado é", xf)
+
+Fim
