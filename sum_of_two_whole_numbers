@@ -1,0 +1,11 @@
+Início
+
+  Escrever("Insira dois números:")
+  Ler(x)
+  Ler(y)
+  Enquanto (y <> 0)
+    x <- x+1
+    y <- y-1
+  Escrever("O resultado da soma é: ", x)
+
+Fim
