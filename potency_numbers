@@ -1,0 +1,15 @@
+Início
+
+  Escrever("Escreva dois números: ")
+  Ler(x)
+  Ler(y)
+  z <- x
+  Se (y=0) Então
+    Escrever("O resultado é ",1)
+  Senão
+    Enquanto (y<>1)
+      x <- x*z
+      y <- y-1
+    Escrever("O resultado é ",x)
+    
+Fim
